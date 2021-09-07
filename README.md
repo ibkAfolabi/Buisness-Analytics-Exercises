@@ -12,5 +12,5 @@ attended by a single customer. The firm wishes to assess alternative sequencings
 bundling of courses.Use association rules to analyze these data, and interpret several
 of the resulting rules.
 
-[See the Solution]()
+[See the Solution](https://github.com/ibkAfolabi/Buisness-Analytics-Exercises/blob/main/132Protocol.R)
 
