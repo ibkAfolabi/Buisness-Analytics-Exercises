@@ -9,5 +9,8 @@ will help in packaging and sequencing courses. Consider the data in the file Cou
 Topics.csv, the first few rows of which are shown in Table 14.13. These data are for
 purchases of online statistics courses at Statistics.com. Each row represents the courses
 attended by a single customer. The firm wishes to assess alternative sequencings and
-bundling of courses. 
+bundling of courses.Use association rules to analyze these data, and interpret several
+of the resulting rules.
+
+[See the Solution]()
 
