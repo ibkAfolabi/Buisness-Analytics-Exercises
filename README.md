@@ -14,3 +14,14 @@ of the resulting rules.
 
 [See the Solution](https://github.com/ibkAfolabi/Buisness-Analytics-Exercises/blob/main/132Protocol.R)
 
+Chapter 6 exercise 2
+--------------------
+Tayko Software is a software catalog firm
+that sells games and educational software. It started out as a software manufacturer
+170 MULTIPLE LINEAR REGRESSION
+and then added third-party titles to its offerings. It recently revised its collection of
+items in a new catalog, which it mailed out to its customers. This mailing yielded
+2000 purchases. Based on these data, Tayko wants to devise a model for predicting
+the spending amount that a purchasing customer will yield. The file Tayko.csv contains
+information on 2000 purchases. ................
+[See the Solution]()
