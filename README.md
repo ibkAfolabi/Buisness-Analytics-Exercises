@@ -24,4 +24,5 @@ items in a new catalog, which it mailed out to its customers. This mailing yield
 2000 purchases. Based on these data, Tayko wants to devise a model for predicting
 the spending amount that a purchasing customer will yield. The file Tayko.csv contains
 information on 2000 purchases. ................
-[See the Solution]()
+
+[See the Solution](https://github.com/ibkAfolabi/Buisness-Analytics-Exercises/blob/main/62.R)
