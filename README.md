@@ -42,4 +42,4 @@ not the auction will be competitive.
 Data Preprocessing. Convert variable Duration into a categorical variable. Split the
 data into training (60%) and validation (40%) datasets.
 
-[See the Solution](https://github.com/ibkAfolabi/Buisness-Analytics-Exercises/blob/main/62.R)
+[See the Solution](https://github.com/ibkAfolabi/Buisness-Analytics-Exercises/blob/main/311ProtocolCodes.R)
